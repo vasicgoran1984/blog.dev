@@ -1,0 +1,6 @@
+{
+    "require": {
+        "illuminate/collections": "^8.44",
+        "nikic/fast-route": "^1.3"
+    }
+}
