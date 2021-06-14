@@ -15,7 +15,7 @@ class Register
         echo 'register new user...';
     }
 
-    public function registerUserTwo($id, $name)
+    public function registerUserTwo($id = NULL, $name = NULL)
     {
 
         echo 'register new user... '.  $id . $name;
